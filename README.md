@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 I’m currently working on SQL.
+
+🌱 I’m currently learning Data Science.
 <!--
 **Marshiano-Pandt/Marshiano-Pandt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
